@@ -1,0 +1,28 @@
+_repo: The-Woman-and-the-Right-to-Vote_26699
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Palma, Rafael
+    birthdate: 1874
+    deathdate: 1939
+    gutenberg_agent_id: '32184'
+    url: http://www.gutenberg.org/2009/agents/32184
+description: ''
+gutenberg_bookshelf: Suffrage
+gutenberg_issued: '2008-09-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26699'
+  lccn: '21013349'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- Suffrage -- Philippines'
+- !lcc 'JQ'
+title: The Woman and the Right to Vote
+url: http://www.gutenberg.org/ebooks/26699
