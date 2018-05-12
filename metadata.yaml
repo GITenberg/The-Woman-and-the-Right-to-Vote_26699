@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '32184'
     url: http://www.gutenberg.org/2009/agents/32184
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26699#The-Woman-and-the-Right-to-Vote
 gutenberg_bookshelf: Suffrage
 gutenberg_issued: '2008-09-24'
 gutenberg_type: Text
